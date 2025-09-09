@@ -32,9 +32,19 @@ Persistent memory:
 All triggers and responses are stored in a file called triggers.txt.
 
 Triggers persist across script executions, so your AI “learns” over time.
+
 $ ./trigger_ai.sh
+
 Enter a trigger word: banana
+
 Enter the response for this trigger: Yum, bananas are my favorite!
 
 AI asks: What's the secret word? banana
+
 AI responds: Yum, bananas are my favorite!
+
+
+
+
+
+
